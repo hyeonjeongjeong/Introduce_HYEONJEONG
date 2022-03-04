@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @hyeonjeongjeong
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning C# programming to get a job
+- contact : wody5345@gmail.com
+- live in Incheon,SOUTH KOREA
 
 
 <!---
