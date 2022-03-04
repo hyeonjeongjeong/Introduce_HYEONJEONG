@@ -4,8 +4,7 @@
 - Gratudated computer engineering in Semyung university 
 - intership in NIA(한국지능정보사회진흥원)
 - contact : wody5345@gmail.com
-- live in Incheon,SOUTH KOREA
--
+- live in Incheon,Republic of KOREA
 
 <!---
 hyeonjeongjeong/hyeonjeongjeong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
