@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @hyeonjeongjeong
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning C# programming to get a job
+- Gratudated computer engineering in Semyung university 
 - contact : wody5345@gmail.com
 - live in Incheon,SOUTH KOREA
-
+-
 
 <!---
 hyeonjeongjeong/hyeonjeongjeong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
