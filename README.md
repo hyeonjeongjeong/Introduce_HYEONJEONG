@@ -7,9 +7,11 @@
 - 
 - 👋 Hi, I’m @hyeonjeongjeong
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning C# programming to get a job
-- Gratudated computer engineering in Semyung university 
-- intership in NIA(한국지능정보사회진흥원)
+- 🌱 I’m currently learning .netframework , html&css , javascript , asp.net , mssql
+- Gratudated computer engineering in Semyung university  
+- 2021.10 - 2021.12 intership in NIA
+- 2021.5 - 2021.10 nationalwork scholarship student in Korea Workers' Compensation and Welfare Service
+- 2020.12 - 2021.1 trainee in spiretechnology 
 - contact : wody5345@gmail.com
 - live in Incheon,Republic of KOREA
 
