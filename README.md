@@ -3,13 +3,16 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/hyeonjeongjeong/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/hyeonjeongjeong/github-readme-stats)
-- 
-- 
+
+
+
+#self-introduction
 - 👋 Hi, I’m @hyeonjeongjeong
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning .netframework , html&css , javascript , asp.net , mssql
+- 🌱 I’m currently learning .netframework , javascript , asp.net , mssql , node.js , typescrip , thtml&css 
 - Gratudated computer engineering in Semyung university  
-- 2021.10 - 2021.12 intership in NIA
+- 2022.02 - 2022. 05 education  in ECOUNT developing ERP service
+- 2021.10 - 2021.12 intership in NIA develpoping PUBLICDATA
 - 2021.5 - 2021.10 nationalwork scholarship student in Korea Workers' Compensation and Welfare Service
 - 2020.12 - 2021.1 trainee in spiretechnology 
 - contact : wody5345@gmail.com
