@@ -3,7 +3,7 @@
 
 
 
-<div align=center><h1>☀️ INTRODUCTION ☀️</h1></div>
+<div><h1>☀️ INTRODUCTION</h1></div>
 
 - 👋 Hi, I’m @hyeonjeongjeong <br>
 - Gratudated COMPUTER ENGINEERING in SEMYUNG UNIV<br>
@@ -12,7 +12,7 @@
 
 
 
-<div align=center><h1>🌻 HYEONJEONG's GITHUB</h1></div>
+<div><h1>🌻 HYEONJEONG's GITHUB</h1></div>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeonjeongjeong&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -24,7 +24,7 @@
 
 
 <br>
-<div align=center><h1>📚 STACKS</h1></div>
+<div><h1>📚 STACKS</h1></div>
 
 <div align=center> 
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
@@ -63,12 +63,12 @@
 
 
 
-<div align=center><h1>etc</h1></div>
+<div><h1>etc</h1></div>
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hj060819)](https://solved.ac/hj060819/)
 
-
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={hj060819}&theme=warm)
 
 
 
