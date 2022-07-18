@@ -6,7 +6,7 @@
 <div><h1>☀️ INTRODUCTION</h1></div>
 
 - 👋 Hi, I’m @hyeonjeongjeong <br>
-- Gratudated COMPUTER ENGINEERING in SEMYUNG UNIV<br>
+- Gratudated COMPUTER ENGINEERING<br>
 - contact : wody5345@gmail.com  <br>
 - live in Incheon,Republic of KOREA <br>
 
@@ -68,7 +68,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hj060819)](https://solved.ac/hj060819/)
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={hj060819}&theme=warm)
+
 
 
 
